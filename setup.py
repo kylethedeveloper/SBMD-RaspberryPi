@@ -18,8 +18,3 @@ while(not wifi.isInternetOn()):
 	sleep(1)
 led.green()
 
-
-"""
-ssid=<SSID>
-psk=<passphrase>
-"""
